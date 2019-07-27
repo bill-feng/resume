@@ -25,9 +25,11 @@
 - Japanese language & Japan studies
 
 ## 💬 Languages
+|Language|Proficiency|
+|--------|-----------|
 |🇨🇦 English|Native|
 |🇨🇳 Mandarin Chinese|Native|
-|🇯🇵 Japanese|JLPT N2|
+|🇯🇵 Japanese|Conversational - JLPT N2|
 
 ## 📲 Contact
 - Email: [mr.billfeng@gmail.com](mailto:mr.billfeng@gmail.com)
