@@ -59,7 +59,7 @@ and [skills](#-skills). If you would like to work together,
 - Worked with remote teams from 4 different countries and delivered in 6 months.
 - Primary developer for the majority of the website frontend.
 
-## [Google Marketing Arena 2018](http://get.google.co.kr/marketingarena2018/)
+### [Google Marketing Arena 2018](http://get.google.co.kr/marketingarena2018/)
 
 - 2018/02 with [R/GA Tokyo](#rga-tokyo)
 - Campaign website for Google event in Korea.
