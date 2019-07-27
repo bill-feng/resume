@@ -85,29 +85,18 @@ learn new skills and tools all the time.
 
 ### Frontend
 
-- HTML
-- CSS/SASS
-- JavaScript
-- React
-- Material Design
+- HTML, CSS/SASS, JavaScript
+- React JS, Material Design
 
 ### Backend
 
-- Node
-- Java
+- Node JS, Java
 - AWS Suite
-  - Cloud Front
-  - Cognito
-  - Dynamo DB
-  - EC2
-  - Lambda
-  - Route 53
-  - S3
+  - Cloud Front, Cognito, Dynamo DB, EC2, Lambda, Route 53, S3
 
 ### CI/CD
 
-- GitHub
-- Travis
+- GitHub, Travis
 
 ## 📚 Education
 
@@ -128,7 +117,7 @@ learn new skills and tools all the time.
 ### International Baccalaureate Diploma
 
 - 2011/09 ⇢ 2012/06
-- 40/45
+- Final score: 40/45
 
 ## 💬 Human Languages
 
@@ -140,6 +129,6 @@ learn new skills and tools all the time.
 
 ## 📲 Contact
 
-- Email - [mr.billfeng@gmail.com](mailto:mr.billfeng@gmail.com)
+- [mr.billfeng@gmail.com](mailto:mr.billfeng@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/bill-feng/)
 - [Facebook](https://www.facebook.com/mr.billfeng)
