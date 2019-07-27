@@ -1,9 +1,22 @@
 # Bill Feng
 
-Thank you for visiting my GitHub resume! Take a look at my
-[professional experience](#-professional-experience), [projects](#-projects),
-and [skills](#-skills). If you would like to work together,
-[contact me](#-contact) and let's have a chat over coffee!
+Thank you for visiting my GitHub resume!
+
+I am a curious software engineer who likes to think deeply about problems,
+search for elegant solutions, and strive to perfect the user experience. I love
+software and am constantly amazed by how a brilliant idea coupled with the right
+lines of code can bring tremendous positive impact to the world. However, I also
+believe the most important problems we have are internal, and technology isn't
+always the best solution. I want to find a junction point between the
+technological and the spiritual, and search along that thin line for a means of
+purposeful living. I hope to utilize my talents to increase the overall
+happiness, wellbeing, and fulfillment of as many people as possible, and maybe
+make a lot of money through the process! 💰😜
+
+Take a look at my [professional experience](#-professional-experience),
+[projects](#-projects), and [skills](#-skills). If you would like to get to know
+me better, or have an opportunity to work together, [contact me](#-contact)
+and let's have a chat over coffee!
 
 ## 💼 Professional Experience
 
@@ -105,7 +118,7 @@ learn new skills and tools all the time.
 - 2012/09 ⇢ 2016/06
 - Bachelor of Arts and Science
 - Majored in computer science with a focus in video game design
-- 3.49 cumulative GPA (3.67 within computer science)
+- 3.49 cumulative GPA (3.67 within computer science courses)
 - Graduated with distinction
 
 ### University of Tokyo
