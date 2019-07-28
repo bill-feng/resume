@@ -134,11 +134,11 @@ learn new skills and tools all the time.
 
 ## 💬 Human Languages
 
-| Language            | Proficiency              |
-| :------------------ | :----------------------- |
-| 🇨🇦 English          | Native                   |
-| 🇨🇳 Mandarin Chinese | Native                   |
-| 🇯🇵 Japanese         | Conversational - JLPT N2 |
+| Language            | Proficiency            |
+| :------------------ | :--------------------- |
+| 🇨🇦 English          | Native                 |
+| 🇨🇳 Mandarin Chinese | Native                 |
+| 🇯🇵 Japanese         | Intermediate - JLPT N2 |
 
 ## 📲 Contact
 
