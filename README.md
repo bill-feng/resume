@@ -10,13 +10,7 @@ believe the most important problems we have are internal, and technology isn't
 always the best solution. I want to find a junction point between the
 technological and the spiritual, and search along that thin line for a means of
 purposeful living. I hope to utilize my talents to increase the overall
-happiness, wellbeing, and fulfillment of as many people as possible, and maybe
-make a lot of money through the process! 💰😜
-
-Take a look at my [professional experience](#-professional-experience),
-[projects](#-projects), and [skills](#-skills). If you would like to get to know
-me better, or have an opportunity to work together, [contact me](#-contact)
-and let's have a chat over coffee!
+happiness, wellbeing, and fulfillment of as many people as possible.
 
 ## 💼 Professional Experience
 
