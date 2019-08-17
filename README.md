@@ -142,6 +142,6 @@ learn new skills and tools all the time.
 
 ## 📲 Contact
 
-- [mr.billfeng@gmail.com](mailto:mr.billfeng@gmail.com)
+- [hello@billfeng.io](mailto:hello@billfeng.io)
 - [LinkedIn](https://www.linkedin.com/in/bill-feng/)
 - [Facebook](https://www.facebook.com/mr.billfeng)
