@@ -1,6 +1,6 @@
 # Bill Feng
 
-Thank you for visiting my [GitHub resume](https://github.com/bill-feng/resume)!
+Thank you for visiting my [GitHub resume](https://github.com/billfeng/resume)!
 
 I am a curious software engineer who likes to think deeply about problems,
 search for elegant solutions, and strive to perfect the user experience. I love
