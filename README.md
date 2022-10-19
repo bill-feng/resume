@@ -50,4 +50,4 @@ in the process.
 
 ## 📲 Contact
 
-[Email](mailto:hi@billf.co) • [Instagram](https://www.instagram.com/bill.feng) • [LinkedIn](https://www.linkedin.com/in/fengbill) • [Facebook](https://www.facebook.com/mr.billfeng)
+[Email](mailto:github@billf.co) • [Instagram](https://www.instagram.com/bill.feng) • [LinkedIn](https://www.linkedin.com/in/fengbill) • [Facebook](https://www.facebook.com/mr.billfeng)
