@@ -1,4 +1,4 @@
-# Bill Feng
+# Bill Z. Feng
 
 I'm a software engineer with a deep passion for self-development. My goal is to
 live a meaningful and fulfilling life while constantly refining what it actually
@@ -46,7 +46,7 @@ in the process.
 
 ## 💬 Human Languages
 
-🇨🇦 English - Native  🇨🇳 Mandarin - Native  🇯🇵 Japanese - Intermediate (JLPT N2)
+🇨🇦 English - Native • 🇨🇳 Mandarin - Native • 🇯🇵 Japanese - Intermediate (JLPT N2)
 
 ## 📲 Contact
 
