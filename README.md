@@ -54,7 +54,7 @@ in the process.
 
 ## 📲 Contact
 
-- [hi@billf.co](mailto:hi@billf.co)
+- [Email](mailto:hi@billf.co)
 - [Instagram](https://www.instagram.com/bill.feng)
 - [LinkedIn](https://www.linkedin.com/in/fengbill)
 - [Facebook](https://www.facebook.com/mr.billfeng)
