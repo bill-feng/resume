@@ -39,9 +39,8 @@ in the process.
 - Student Exchange Program
 - Japanese language & Japan studies
 
-### International Baccalaureate Diploma
+### International Baccalaureate Diploma <sub>2011/09 ⇢ 2012/06</sub>
 
-- 2011/09 ⇢ 2012/06
 - Final score: 40/45
 
 ## 💬 Human Languages
