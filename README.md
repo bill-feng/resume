@@ -39,13 +39,14 @@ in the process.
 - Student Exchange Program
 - Japanese language & Japan studies
 
-### International Baccalaureate Diploma <sub>2011/09 ⇢ 2012/06</sub>
+### International Baccalaureate Diploma
 
+- 2011/09 ⇢ 2012/06
 - Final score: 40/45
 
 ## 💬 Human Languages
 
-🇨🇦 English - Native • 🇨🇳 Mandarin - Native • 🇯🇵 Japanese - Intermediate (JLPT N2)
+🇨🇦 English - Native  🇨🇳 Mandarin - Native  🇯🇵 Japanese - Intermediate (JLPT N2)
 
 ## 📲 Contact
 
