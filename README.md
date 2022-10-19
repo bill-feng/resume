@@ -46,11 +46,7 @@ in the process.
 
 ## 💬 Human Languages
 
-| Language    | Proficiency            |
-| :-----------| :--------------------- |
-| 🇨🇦 English  | Native                 |
-| 🇨🇳 Mandarin | Native                 |
-| 🇯🇵 Japanese | Intermediate - JLPT N2 |
+🇨🇦 English (Native) 🇨🇳 Mandarin (Native) 🇯🇵 Japanese (Intermediate - JLPT N2)
 
 ## 📲 Contact
 
